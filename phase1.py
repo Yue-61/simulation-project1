@@ -3,7 +3,7 @@ import random
 import math
 import numpy as np
 
-# 1. Baseline Parameters (BoxCar's Beliefs)
+# 1. Baseline Parameters
 MAP_SIZE = 20            # Squareshire is 20x20 miles
 SPEED = 20.0             # Average speed is 20 mph
 DRIVER_ARRIVAL = 3.0     # Driver arrival rate: Exp(3/hr)
